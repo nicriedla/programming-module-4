@@ -6,7 +6,7 @@ Ao compilar o código pela IDE do Arduino, o led interno do microcontralador do 
 
 Abaixo tem-se uma imagem do Led aceso:
 
-<img src="blink-interno.jpg" alt="Blink Interno" width="600"/>
+<img src="blink-interno.jpg" alt="Blink Interno" width="300"/>
 
 Código utilizado no arduino IDE:
 
