@@ -10,7 +10,7 @@ Abaixo tem-se uma imagem do Led aceso:
 
 Código utilizado no arduino IDE:
 
-<img src="codigo-arduino-IDE.png" alt="Código Blink Interno" width="600"/>
+<img src="codigo-arduino-ide.png" alt="Código Blink Interno" width="600"/>
 
 > Para ter uma visualização melhor, basta acessar o link de um vídeo do Led piscando: [Vídeo do Led piscando](https://drive.google.com/file/d/1XWA8utSV7P_ULDkOaWtqCOtWRo7LbyaB/view?usp=sharing)
 
