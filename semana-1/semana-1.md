@@ -44,4 +44,4 @@ void loop()
 }
 ```
 
-> Para ter uma visualização melhor, basta acessar o link da simulação do circuito: [Simulação Blink Externo](https://www.tinkercad.com/things/eagrJWKWVtg-tremendous-robo-bigery/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits)
+> Para ter uma visualização melhor, basta acessar o link da simulação do circuito: [Simulação Blink Externo](https://www.tinkercad.com/things/eagrJWKWVtg-ponderada-semana-1/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=GCE-Ffxjwvo4Pvia2ejP-ZDb7XEsoRVFRg0X6QanuYM)
