@@ -132,10 +132,18 @@ O Rafael Josué do grupo 2 também fez uma avaliação do projeto. Ele disse que
 
 ## Imagens Extras
 
+LEDs que simbolizam o semáforo para veículos:
+
 <img src="semaforo.jpg" alt="circuito-semaforo" width="300"/>
+
+Display LCD que mostra as mensagens e a contagem regressiva:
 
 <img src="display-lcd.jpg" alt="circuito-semaforo" width="300"/>
 
+LED RGB que simboliza o semáforo para pedestres:
+
 <img src="sinal-pedestres.jpg" alt="circuito-semaforo" width="300"/>
+
+Buzzer para sinalizar de forma sonora que o pedestre pode atravessar e microcontrolador ESP32 utilizado no projeto:
 
 <img src="buzzer.jpg" alt="circuito-semaforo" width="300"/>
