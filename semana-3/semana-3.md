@@ -128,7 +128,7 @@ Todo esse ciclo é mostrado no display LCD, que exibe mensagens como "Sinal Verd
 
 O João Vitor do grupo 3 fez uma avaliação do projeto do semáforo desenvolvido. Ele disse que o projeto está muito bom, com uma ideia muito boa de utilizar o display LCD para mostrar as mensagens e a contagem regressiva para os pedestres. Além disso, ele disse que o buzzer foi uma ótima ideia de sinalização para os pedestres saberem que é o momento certo para atravessar. No geral, ele elogiou o trabalho realizado.
 
-O Rafael Josué do grupo 2 também fez uma avaliação do projeto. Ele disse que nao achou nada de errado no circuito em questao de conexão. Ele disse que o ir além de colocar o funcionamento do sinal de semáforo com o de pedestres, o uso do display LCD para mostrar as mensagens e a contagem foi ir além muito bom.
+O Rafael Josué do grupo 2 também fez uma avaliação do projeto. Ele disse que não achou nada de errado no circuito em questão de conexão. Ele disse que fazer a conexão do funcionamento do sinal de semáforo dos veículos com o de pedestres, o uso do display LCD para mostrar as mensagens e a contagem foi ir além muito bom.
 
 ## Imagens Extras
 
