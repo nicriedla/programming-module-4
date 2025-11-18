@@ -2,6 +2,8 @@
 
 > Para visualizar o circuito montado e os testes feitos, mostrando o funcionamento dos sensores e a integração com o Ubidots, acesse o seguinte vídeo: [Vídeo do Projeto](https://drive.google.com/file/d/1HofJvlOPtPIigSPnbYK9-d2YWvgBJAEg/view?usp=sharing)
 
+> Para acessar o código utilizado no projeto, acesse o seguinte link: [Código do Projeto no GitHub](codigo.ino)
+
 Este projeto foi desenvolvido na semana 6, com o objetivo de explorar conceitos de Smart Cities. A proposta é criar um sistema de semáforos adaptativos que não apenas gerencia o fluxo, mas também monitora o comportamento dos motoristas.
 
 O sistema utiliza:
@@ -86,5 +88,6 @@ Nosso dashboard no Ubidots foi configurado para exibir três informações princ
 Foto da montagem do circuito, mostrando os dois semáforos, o LDR de luz ambiente e o Sensor Ultrassônico.
 
 ![Foto da montagem geral](./circuito.jpg)
+
 
 
